@@ -28,7 +28,6 @@
 ```
 
 ### 购物指南
-
 ![](https://pic1.zhimg.com/v2-72654cb31d868b3091e9c05c7f458570_b.jpg)
 
 ![](https://pic1.zhimg.com/v2-f9b3c31476144548d0b9d25dab031a74_b.jpg)
@@ -43,5 +42,5 @@
 
 ![](https://pic3.zhimg.com/v2-d89657fc3bbf5b327385ae64e32da28a_b.jpg)
 
-![](http://https://pic4.zhimg.com/v2-92a82460968053aba7c8c984dc17f6ff_b.jpg)
+![](https://pic4.zhimg.com/v2-92a82460968053aba7c8c984dc17f6ff_b.jpg)
 
